@@ -1,0 +1,61 @@
+
+
+	
+body { 
+   }
+#a, #b, #c {
+    color: white;
+    background: #FF7700: 
+}
+#men{
+	color: white;
+    background: #FF7700: 
+}
+
+
+#navigation {
+	 background-color: #f3f3f3 ;
+	 color: #0000 ;
+
+  width: 200px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+ ul  {
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ }
+ li {
+ margin-left:0px;
+ float:left; /*pour IE*/
+ }
+ ul li a {
+ display:block;
+ float:left;   
+ width:270px;
+ background-color:#ff7700;
+ color:black;
+ text-decoration:none;
+ text-align:center;
+ padding:5px;
+ border:2px solid;
+ /*pour avoir un effet "outset" avec IE :*/
+ border-color:#ff7700 #ff7700 #ff7700 #ff7700;
+ }
+ ul li a:hover {
+ background-color:#ff7700;
+ border-color:#ff7700;
+ }  
+ div >
+  #pres {
+
+margin-left: 30px ;
+height: 1700px;
+width: 10px ;
+ }
